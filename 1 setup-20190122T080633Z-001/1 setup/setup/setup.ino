@@ -39,7 +39,7 @@ void loop(){
   Serial.println(F(""));
   Serial.println(F("==================================================="));
   Serial.println(F("System check"));
-  Serial.println(F("INDIAN LIFEHACKER"));
+  Serial.println(F("FOXTROT"));
   delay(1000);
   Serial.println(F("Checking I2C clock speed."));
   delay(1000);
